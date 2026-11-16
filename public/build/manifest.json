@@ -1,0 +1,101 @@
+{
+  "_fonts-DGtjCh2y.css": {
+    "file": "assets/fonts-DGtjCh2y.css",
+    "src": "_fonts-DGtjCh2y.css"
+  },
+  "_hind-siliguri-400-normal-B2m00w2e.woff": {
+    "file": "assets/hind-siliguri-400-normal-B2m00w2e.woff",
+    "src": "_hind-siliguri-400-normal-B2m00w2e.woff"
+  },
+  "_hind-siliguri-400-normal-esES0U7a.woff2": {
+    "file": "assets/hind-siliguri-400-normal-esES0U7a.woff2",
+    "src": "_hind-siliguri-400-normal-esES0U7a.woff2"
+  },
+  "_hind-siliguri-500-normal-6-4w_u8d.woff": {
+    "file": "assets/hind-siliguri-500-normal-6-4w_u8d.woff",
+    "src": "_hind-siliguri-500-normal-6-4w_u8d.woff"
+  },
+  "_hind-siliguri-500-normal-S8HLIV69.woff2": {
+    "file": "assets/hind-siliguri-500-normal-S8HLIV69.woff2",
+    "src": "_hind-siliguri-500-normal-S8HLIV69.woff2"
+  },
+  "_hind-siliguri-600-normal-Cgt-s7Wl.woff": {
+    "file": "assets/hind-siliguri-600-normal-Cgt-s7Wl.woff",
+    "src": "_hind-siliguri-600-normal-Cgt-s7Wl.woff"
+  },
+  "_hind-siliguri-600-normal-DHrLfb92.woff2": {
+    "file": "assets/hind-siliguri-600-normal-DHrLfb92.woff2",
+    "src": "_hind-siliguri-600-normal-DHrLfb92.woff2"
+  },
+  "_hind-siliguri-700-normal-DO_14aHP.woff2": {
+    "file": "assets/hind-siliguri-700-normal-DO_14aHP.woff2",
+    "src": "_hind-siliguri-700-normal-DO_14aHP.woff2"
+  },
+  "_hind-siliguri-700-normal-z30-k5TQ.woff": {
+    "file": "assets/hind-siliguri-700-normal-z30-k5TQ.woff",
+    "src": "_hind-siliguri-700-normal-z30-k5TQ.woff"
+  },
+  "_instrument-sans-400-normal-D1W7dsQl.woff": {
+    "file": "assets/instrument-sans-400-normal-D1W7dsQl.woff",
+    "src": "_instrument-sans-400-normal-D1W7dsQl.woff"
+  },
+  "_instrument-sans-400-normal-DRC__1Mx.woff2": {
+    "file": "assets/instrument-sans-400-normal-DRC__1Mx.woff2",
+    "src": "_instrument-sans-400-normal-DRC__1Mx.woff2"
+  },
+  "_instrument-sans-500-normal-Dk9ku72i.woff2": {
+    "file": "assets/instrument-sans-500-normal-Dk9ku72i.woff2",
+    "src": "_instrument-sans-500-normal-Dk9ku72i.woff2"
+  },
+  "_instrument-sans-500-normal-Z6ESRlEs.woff": {
+    "file": "assets/instrument-sans-500-normal-Z6ESRlEs.woff",
+    "src": "_instrument-sans-500-normal-Z6ESRlEs.woff"
+  },
+  "_instrument-sans-600-normal-B7fBEWYG.woff2": {
+    "file": "assets/instrument-sans-600-normal-B7fBEWYG.woff2",
+    "src": "_instrument-sans-600-normal-B7fBEWYG.woff2"
+  },
+  "_instrument-sans-600-normal-B9e8oLYv.woff": {
+    "file": "assets/instrument-sans-600-normal-B9e8oLYv.woff",
+    "src": "_instrument-sans-600-normal-B9e8oLYv.woff"
+  },
+  "_instrument-sans-700-normal-CYfAanHo.woff2": {
+    "file": "assets/instrument-sans-700-normal-CYfAanHo.woff2",
+    "src": "_instrument-sans-700-normal-CYfAanHo.woff2"
+  },
+  "_instrument-sans-700-normal-DfAjL1vF.woff": {
+    "file": "assets/instrument-sans-700-normal-DfAjL1vF.woff",
+    "src": "_instrument-sans-700-normal-DfAjL1vF.woff"
+  },
+  "_search-BRrZOtua.js": {
+    "file": "assets/search-BRrZOtua.js",
+    "name": "search"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-BohmVr4r.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-CjDfb4dl.js",
+    "name": "admin",
+    "src": "resources/js/admin.js",
+    "isEntry": true,
+    "imports": [
+      "_search-BRrZOtua.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BH46Rue6.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_search-BRrZOtua.js"
+    ]
+  }
+}
